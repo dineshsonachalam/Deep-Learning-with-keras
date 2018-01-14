@@ -13,3 +13,8 @@
 
 1. - [ ] [Convolution Neural Networks in Python](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python)
 2. - [ ] [Machine Learning SciKit](https://www.datacamp.com/community/tutorials/machine-learning-python)
+
+
+# 17 Ultimate Data Science to Boost your knowledge and skill
+
+1. https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/

@@ -7,3 +7,9 @@
 5. - [ ] [Digit Recognizer Kaggle--> Submit Predictions](https://www.kaggle.com/c/digit-recognizer/submit)
 6. - [ ] [Push the Following code in Tensorflow-keras tutorial](https://github.com/dineshsonachalam/Tensorflow-keras-Basics)
 7. - [ ] [Write A Blog Post in Medium-->"Neural Network Foundations with Keras"](https://medium.com/new-story)
+
+# Important Reading
+
+
+1. - [ ] [Convolution Neural Networks in Python](https://www.datacamp.com/community/tutorials/convolutional-neural-networks-python)
+2. - [ ] [Machine Learning SciKit](https://www.datacamp.com/community/tutorials/machine-learning-python)

@@ -1,3 +1,7 @@
+# Top Priority : Buy this book [deep learning for nlp]
+https://machinelearningmastery.com/deep-learning-for-nlp/
+
+
 # Deep-Learning-with-keras
 
 1. - [x] Neural Networks Foundation

@@ -22,3 +22,14 @@ https://machinelearningmastery.com/deep-learning-for-nlp/
 # 17 Ultimate Data Science to Boost your knowledge and skill
 
 1. https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
+# Intel AI Academy
+
+https://software.intel.com/en-us/ai-academy/students/kits/machine-learning-101
+
+
+https://software.intel.com/en-us/ai-academy/students/kits/deep-learning
+
+
+https://software.intel.com/en-us/ai-academy/students/kits/tensor-flow-101
+
